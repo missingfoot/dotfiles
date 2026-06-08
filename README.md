@@ -14,7 +14,7 @@ Opinionated, minimal macOS dotfiles, with:
 > ⚠️ This will overwrite `~/.zshrc`, `~/.zprofile`, and `~/.gitconfig`.
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/jfi/dotfiles/main/install | bash
+curl -fsSL https://raw.githubusercontent.com/missingfoot/dotfiles/main/install | bash
 ```
 
 The installer is interactive on first run and will:
